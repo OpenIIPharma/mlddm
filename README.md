@@ -1,4 +1,4 @@
-## Double Dock For Chemprop Model-Training
+## Code for Exploration on Learning Molecular Docking with Deep Learning Models
 
  **Introduction：**
 
